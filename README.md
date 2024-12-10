@@ -17,10 +17,10 @@ This project implements a chatbot using Natural Language Processing (NLP) techni
 - JSON for intents data
 
 ## Installation
-1. Clone the Repository
-   
---- git clone<repository-url>---
----cd <repository-directory> ---
+ Clone the Repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
 
 2. Create a Virtual Environment (Optional but Recommended)
    
