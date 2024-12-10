@@ -29,7 +29,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. Install Required Packages
    
-pip install -r requirements.txt
+"pip install -r requirements.txt"
 
 5. Download NLTK Data
 import nltk
