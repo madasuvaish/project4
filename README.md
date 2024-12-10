@@ -20,7 +20,7 @@ This project implements a chatbot using Natural Language Processing (NLP) techni
 1. Clone the Repository
    
 --- git clone <repository-url>
-cd <repository-directory>
+cd <repository-directory> ---
 
 2. Create a Virtual Environment (Optional but Recommended)
    
